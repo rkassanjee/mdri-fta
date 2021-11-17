@@ -8,7 +8,7 @@ This repository (mdri-fta) contains a tool to adjust available estimates of the 
 
 The tool was specifically developed for the analysis presented in the following article:
 
->> Reshma Kassanjee, Alex Welte, Kennedy Otwombe, Maya Jaffer, Minja Milovanovic, Khuthadzo Hlongwane, Mokgadi Matuludi, Kathryn L Hopkins, Adrian Puren, Naomi Hill, Venice Mbowane, Kristin Dunkle, Rachel Jewkes, Glenda Gray, Fareed Abdullah, and Jenny Coetzee.  Persistently high HIV incidence among female sex workers in South Africa found by multiple methods applied to cross-sectional survey data. 2021.
+>> Reshma Kassanjee, Alex Welte, Kennedy Otwombe, Maya Jaffer, Minja Milovanovic, Khuthadzo Hlongwane, Adrian Puren, Naomi Hill, Venice Mbowane, Kristin Dunkle, Rachel Jewkes, Glenda Gray, Fareed Abdullah, and Jenny Coetzee.  Persistently high HIV incidence among female sex workers in South Africa found by multiple methods applied to cross-sectional survey data. 2021.
 
 The tool implements a method that encompasses greater flexibility than used in the above article, and can be applied or further adapted to other analyses or settings, though inputs should be relevant to the context. 
 
@@ -33,7 +33,7 @@ Copyright of code and content vests in the authors. The code and content in this
 Giving appropriate credit includes citation of the related publication and providing a link to the repository:
 
 **Citation**
->> Reshma Kassanjee, Alex Welte, Kennedy Otwombe, Maya Jaffer, Minja Milovanovic, Khuthadzo Hlongwane, Mokgadi Matuludi, Kathryn L Hopkins, Adrian Puren, Naomi Hill, Venice Mbowane, Kristin Dunkle, Rachel Jewkes, Glenda Gray, Fareed Abdullah, and Jenny Coetzee. Persistently high HIV incidence among female sex workers in South Africa found by multiple methods applied to cross-sectional survey data. 2021.
+>> Reshma Kassanjee, Alex Welte, Kennedy Otwombe, Maya Jaffer, Minja Milovanovic, Khuthadzo Hlongwane, Adrian Puren, Naomi Hill, Venice Mbowane, Kristin Dunkle, Rachel Jewkes, Glenda Gray, Fareed Abdullah, and Jenny Coetzee. Persistently high HIV incidence among female sex workers in South Africa found by multiple methods applied to cross-sectional survey data. 2021.
 
 **Link** 
 >> <https://github.com/rkassanjee/mdri-fta>
